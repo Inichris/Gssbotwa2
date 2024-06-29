@@ -16,7 +16,7 @@ global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
 global.menuType = "2"
-global.autoswview = true
+global.autoswview = false
 global.autoread = false
 global.available = false
 global.autoTyping = false
@@ -25,7 +25,7 @@ global.autoreact = false
 global.onlygroup = false
 global.onlypc = false
 global.welcome = true
-global.autoBlock = true
+global.autoBlock = false
  
 /*REPLY MESSAGE*/
 global.mess = {
